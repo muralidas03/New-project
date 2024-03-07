@@ -1,0 +1,12 @@
+I have input of list of date and times
+Inputs - { MM-DD-YYYY HH:MM:SS}
+milan monappa
+10:02 AM
+For example - {02-01-2024 10:00:01, 01-06-2024 11:00:01, 02-05-2024 12:00:01 }
+Output - { 02-05-2024 12:00:01, 02-01-2024 10:00:01,01-06-2024 11:00:01}
+
+input_1= {3,1,4,6,0} 
+input_1.sort()
+print(input_1)
+for i in input_1:
+    
